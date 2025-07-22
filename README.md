@@ -42,7 +42,7 @@
   - Imports.cs (All necessary and unnecessary imports).
 
 ### Screen
-
+![ScreenMain](https://github.com/Willemere/Autoclicker/blob/main/menu.png)
 
 ### P.S
 That's basically it, I was too lazy to do anything.
