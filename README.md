@@ -1,4 +1,4 @@
-# Yandex clicker for minecraft
+# Yandex clicker for minecraft (Was supposed to be an autoclicker)
 ### To reduce the project weight, the following libraries were removed. (You can install them in Project -> Manage NuGet Packages):
 - Castle.Core.5.0.0
 - Microsoft.Bcl.AsyncInterfaces.6.0.0
