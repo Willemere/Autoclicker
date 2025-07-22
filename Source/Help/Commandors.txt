@@ -1,0 +1,8 @@
+Yandex.exe - v0.0.1
+Made by Willemere (Сделал Willemere)
+Brief description of all commands (Краткое описание всех возможных команд)
+
+[ENG]
+Left Clicker:
+l (or) lcm (or) left <avg> <cps> - Change your cps for left mouse click. (Form 0 to 25)
+l (or) lcm (or) left <gam> <bool> - Change the left mouse button settings to disable the ability to click outside of the game. (True or False)

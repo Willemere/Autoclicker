@@ -1,0 +1,7 @@
+﻿namespace Yandex
+{
+    class Clickers
+    {
+        
+    }
+}
